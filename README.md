@@ -32,7 +32,7 @@ RegisterNumber:
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](https://user-images.githubusercontent.com/119476247/215153326-285a8475-4d4b-4297-ac20-dbc3c5b35c44.png)
 
 
 ## Result:
